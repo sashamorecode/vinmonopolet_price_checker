@@ -2,8 +2,8 @@
 Grabs all prices, alcoholvolume values for products on vinmonopolet and exports them to a csv file.
 
 Requirments:  
-  -pickle \n
-  -multiprocessing \n
-  -requests
-  -json
-  -selenium
+  *pickle 
+  *multiprocessing 
+  *requests
+  *json
+  *selenium
